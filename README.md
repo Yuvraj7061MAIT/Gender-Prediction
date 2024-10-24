@@ -72,12 +72,6 @@ The age prediction model categorizes individuals into the following groups:
 3. **Exit**:
    Press `q` to quit the video window.
 
-## Example Output
-
-During execution, the script will display real-time predictions on the video feed, showing bounding boxes around detected faces with labels indicating predicted age group and gender:
-
-![Example Output](https://your-image-url.png)
-
 ## Code Overview
 
 ### Function: `faceBox`
