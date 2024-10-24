@@ -88,7 +88,7 @@ The age prediction model categorizes individuals into the following groups:
 - Press `q` to quit the application.
 
 ## Requirements
-- Python 3.x
+- Python 3.9
 - OpenCV (with DNN support)
 - Pre-trained models for face, age, and gender detection.
 
